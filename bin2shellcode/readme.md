@@ -3,7 +3,7 @@
 Usage:
 
 ```
-python2 bin2sc.py <file>.bin c|cs
+python3 bin2sc.py <file>.bin c|cs
 ```
 
 Credits :
